@@ -24,8 +24,3 @@ venv/
 # Cache
 .cache/
 
-# Excluded from repo (internal tooling, generated output)
-CLAUDE.md
-.planning/
-.claude/
-output/
